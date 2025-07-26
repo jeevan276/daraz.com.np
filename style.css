@@ -97,6 +97,7 @@ body {
   width: 50%;
   height: 388px;
   width: 988px;
+  border-top: 125px solid #fff;
 }
 #addtocart > img {
   display: block;
@@ -391,7 +392,7 @@ section {
 }
 .footer-title {
   color: #0f136d;
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 300;
   line-height: 35px;
   margin: 0;
