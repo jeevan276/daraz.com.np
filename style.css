@@ -43,7 +43,6 @@ body {
 .searchbar {
   box-sizing: border-box;
   border: none;
-  outline:none;
   padding: 11px;
   display: flex;
 }
@@ -60,6 +59,7 @@ body {
   background-color: #fff;
   box-sizing: border-box;
   border: none;
+  outline:none;
   border-radius: 3px;
   height: 45px;
   line-height: 45px;
@@ -922,4 +922,5 @@ button {
       "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   }
 }
+
 
