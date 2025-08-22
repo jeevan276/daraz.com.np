@@ -43,6 +43,7 @@ body {
 .searchbar {
   box-sizing: border-box;
   border: none;
+  outline:none;
   padding: 11px;
   display: flex;
 }
@@ -921,3 +922,4 @@ button {
       "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   }
 }
+
