@@ -675,7 +675,7 @@ button {
     height: fit-content;
     max-width: 340px;
     min-width: 60px;
-    margin-top: 50px;
+    margin-top: 5px;
   }
   #addtocart > img {
     display: none;
@@ -923,6 +923,7 @@ button {
       "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   }
 }
+
 
 
 
