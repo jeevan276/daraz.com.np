@@ -99,7 +99,6 @@ body {
   width: 50%;
   height: 388px;
   width: 988px;
-  border-top: 125px solid #fff;
 }
 #addtocart > img {
   display: block;
@@ -923,6 +922,7 @@ button {
       "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   }
 }
+
 
 
 
