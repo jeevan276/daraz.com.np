@@ -661,7 +661,7 @@ button {
     background-color: #fd6309;
     color: #fff;
     border-radius: 50px;
-    padding: 10px 22px;
+    padding: 10px 25px;
     font-weight: bold;
   }
   .searchbar-mobi > .button {
@@ -922,6 +922,7 @@ button {
       "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   }
 }
+
 
 
 
